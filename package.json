@@ -3,6 +3,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "get-line-from-pos": "^1.0.0",
     "jest": "^23.6.0"
   },
   "devDependencies": {
